@@ -35,13 +35,13 @@ The system requires the following Python libraries:
 
 # Installing Python 3.x (Recommended version: 3.7 or higher)
 
-# pandas - Data manipulation and analysis
-# numpy - Numerical computations
-# matplotlib - Plotting and visualization
-# seaborn - Statistical data visualization
-# scikit-learn - Machine learning algorithms
-# scipy - Scientific computing
-# surprise - A library for building and analyzing recommender systems
+### pandas - Data manipulation and analysis
+### numpy - Numerical computations
+### matplotlib - Plotting and visualization
+### seaborn - Statistical data visualization
+### scikit-learn - Machine learning algorithms
+### scipy - Scientific computing
+### surprise - A library for building and analyzing recommender systems
 # Install the required libraries
 ```bash 
 pip install numpy 
