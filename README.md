@@ -33,11 +33,20 @@ The system uses two datasets:
 # Prerequisites
 The system requires the following Python libraries:
 
-Python 3.x (Recommended version: 3.7 or higher)
-pandas - Data manipulation and analysis.
-numpy - Numerical computations.
-matplotlib - Plotting and visualization.
-seaborn - Statistical data visualization.
-scikit-learn - Machine learning algorithms.
-scipy - Scientific computing.
-surprise - A library for building and analyzing recommender systems.
+# Installing Python 3.x (Recommended version: 3.7 or higher)
+
+# pandas - Data manipulation and analysis
+# numpy - Numerical computations
+# matplotlib - Plotting and visualization
+# seaborn - Statistical data visualization
+# scikit-learn - Machine learning algorithms
+# scipy - Scientific computing
+# surprise - A library for building and analyzing recommender systems
+# Install the required libraries
+```bash 
+pip install numpy 
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install scipy 
+pip install surprise
