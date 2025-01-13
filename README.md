@@ -4,6 +4,13 @@
 
 This project implements a **Music Recommendation System** combining **Content-Based Filtering**, **Collaborative Filtering**, and **KNN-Based Recommendations**. It leverages machine learning techniques to recommend songs based on lyrics, user preferences, and user-item interactions.
 
+
+
+## Project Description
+
+The Music Recommendation System leverages a combination of advanced machine learning techniques to provide users with personalized song recommendations. This system integrates Content-Based Filtering, Collaborative Filtering, and KNN-Based Recommendations, offering a holistic approach to suggesting songs based on song attributes, user interactions, and similarity to other users.
+The project uses lyrics-based content filtering and user interaction data to deliver customized recommendations, ensuring that the system adapts to both individual preferences and popular trends.
+
 ## Features
 
 ### Content-Based Recommender
